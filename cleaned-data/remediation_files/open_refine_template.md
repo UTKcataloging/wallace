@@ -28,8 +28,9 @@
 
 {{if(isBlank(cells['Creator'].value), '', '<name><namePart>' + cells['Creator'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>')}}
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form>
-{{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="{{cells['form2_URI'].value}}">{{cells['form2'].value}}</form>
+<physicalDescription>
+{{if(isBlank(cells['form'].value), '', '<form authority="aat" valueURI="' + cells['form_URI'].value + '">' + cells['form'].value + '</form>')}}
+{{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="' + cells['form2_URI'].value + '">' + cells['form2'].value + '</form>')}}
 {{if(isBlank(cells['Extent'].value), '', '<extent>' + cells["Extent"].value + '</extent>')}}
 </physicalDescription>
 
@@ -41,7 +42,7 @@
 
 {{if(isBlank(cells['subject4'].value), '', '<subject valueURI="' + cells['subject4_URI'].value + '"><topic>' + cells['subject4'].value + '</topic></subject>')}}
 
-<subject authority="naf" valueURI="{{cells['subject_geo_URI'].value}}"><name><namePart>{{cells['subject_geo'].value}}</namePart></name></subject>
+{{if(isBlank(cells['subject_geo'].value), '', '<subject authority="naf" valueURI="' + cells['subject_geo_URI'].value + '"><name><namePart>' + cells['subject_geo'].value + '</namePart></name></subject>')}}
 
 {{if(isBlank(cells['Note2'].value), '', '<note>' + cells['Note2'].value + '</note>')}}
 
