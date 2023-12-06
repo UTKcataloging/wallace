@@ -1,0 +1,3620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods>
+<identifier type="local">MS3989_b1_f1_001</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album</title></titleInfo> 
+
+<abstract>Photo album created by Corporal John L. Wallace during his military training at Fort McCoy in Wisconsin.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+<name><namePart>Wallace, John L.</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026695">photograph albums</form>
+
+<extent>1 photo album</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85073117"><topic>Korean War, 1950-1953</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85085309"><topic>Military training camps</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_001</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, front cover</title></titleInfo> 
+
+<abstract>Cover of album includes the text "Photographs" and "Camp McCoy, Wisc."  The Great Seal, which includes a bald eagle and the text "E. Pluribus Unum" is present.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026695">photograph albums</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85042694"><topic>Emblems, National</topic></subject>
+
+
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_002</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 1</title></titleInfo> 
+
+<abstract>This page features "Autographs of my friends."  A date, signature, address, and message is included for each contributor. The messages date from 1950-1951 and include well wishes like "Be cool, my man."</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1950-1951</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1950</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1951</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028705">signatures (names)</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85122409"><topic>Signatures (Writing)</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051992"><topic>Friendship</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85073117"><topic>Korean War, 1950-1953</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_003</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 2</title></titleInfo> 
+
+<abstract>A second page of "Autographs of my friends." A date, signature, address, and message is included for each contributor. The messages date from 1951-1952 and include well wishes like "We will be home again some day."</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1951-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1951</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028705">signatures (names)</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85122409"><topic>Signatures (Writing)</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051992"><topic>Friendship</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85073117"><topic>Korean War, 1950-1953</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_004</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 3</title></titleInfo> 
+
+<abstract>A third blank page of "Autographs of my friends."</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028705">signatures (names)</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85122409"><topic>Signatures (Writing)</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051992"><topic>Friendship</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85073117"><topic>Korean War, 1950-1953</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_005</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 4</title></titleInfo> 
+
+<abstract>Page includes five posed photographs.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_006</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 5</title></titleInfo> 
+
+<abstract>Page includes one photograph of two Black soldiers with cigars in an office space.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_007</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 6</title></titleInfo> 
+
+<abstract>Page includes one photograph of three Black men in suits posing together.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_008</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 7</title></titleInfo> 
+
+<abstract>Page includes one photograph of a Black soldier standing in the snow under a tree.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85123771"><topic>Snow</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_009</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 8</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black soldiers and buildings. One photograph depicts a jeep with "Military Police" written across its front.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85142533"><topic>Vehicles, Military</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_010</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 9</title></titleInfo> 
+
+<abstract>Page includes four photographs of Black soldiers and military vehicles.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85142533"><topic>Vehicles, Military</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_011</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 10</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black soldiers and buildings.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011921"><topic>Barracks</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_012</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 11</title></titleInfo> 
+
+<abstract>Page includes two photographs of Black soldiers on military vehicle phones.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85142533"><topic>Vehicles, Military</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_013</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 12</title></titleInfo> 
+
+<abstract>Page includes two photographs of Black soldiers in front of barracks.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011921"><topic>Barracks</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_014</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 13</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black soldiers.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_015</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 14</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black soldiers.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_016</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 15</title></titleInfo> 
+
+<abstract>Page includes two photographs of Black soldiers.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_017</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 16</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black soldiers near barracks and the mess hall.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011921"><topic>Barracks</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh92003253"><topic>Cafeterias</topic></subject>
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_018</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 17</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black soldiers. One photo shows two people getting food while another has a soldier posing in front of a jeep.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85142533"><topic>Vehicles, Military</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh92003253"><topic>Cafeterias</topic></subject>
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_019</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 18</title></titleInfo> 
+
+<abstract>Page includes four photographs. The upper two photographs are of the exterior of barracks. The photo in the lower left shows a soldier standing inside a barrack next to two cots. The lower right photo depicts two men getting food in the cafeteria. </abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011921"><topic>Barracks</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh92003253"><topic>Cafeterias</topic></subject>
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_020</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 19</title></titleInfo> 
+
+<abstract>Page includes two photographs of Black soldiers posing.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_021</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 20</title></titleInfo> 
+
+<abstract>Page includes six photographs of Black women posing outside. Five of the six photos depict a single individual while the one on the lower right is a group shot with three women and one man.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85147364"><topic>Women, Black</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_022</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 21</title></titleInfo> 
+
+<abstract>Page includes three photographs of Black men and women posing outside.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85147364"><topic>Women, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2018001350"><topic>Men, Black</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_023</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 22</title></titleInfo> 
+
+<abstract>Page includes two photographs of the same Black woman posing in front of a painted backdrop of a domestic exterior with a gate.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85147364"><topic>Women, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_024</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 23</title></titleInfo> 
+
+<abstract>Page includes two photographs of named individuals. The photo on the left captures a group of soliders and includes inscriptions indicating the name and origin of each individual. The names and origins listed are: James Stewart (Fresn Cal.), Joe Vachon (Rumford Maine), Ollie Bunn (Wilson N.C.) Percy Johnston (??), Sabeme Bey (Toledo O.) Cris Gwisham (Toledo O.), Lonnie Lewis (Chicago Ill.) and Fred Bonaparte (Phila. Pa.). Also inscribed is "brks 6217" (barracks 6217). Wallace has also included arrows to his bunk and the war hawks field baseball park. The photo on the right includes the inscription "My dad" and depicts a Black man in a vest in front of a garden with tulips.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2018001350"><topic>Men, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85083521"><topic>Men, White</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_025</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 24</title></titleInfo> 
+
+<abstract>Page includes one photograph of a Black woman with studio lighting.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85147364"><topic>Women, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_026</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 25</title></titleInfo> 
+
+<abstract>Page includes one photograph of a Black woman in a white dress holding a diploma.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85147364"><topic>Women, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2013000025"><topic>Diplomas</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_027</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, page 26</title></titleInfo> 
+
+<abstract>Page includes one photograph of a Black soldier standing in the snow with his hands on his hips. Behind him is a sign with the text "Bayonnet . . . . . . assault."</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85123771"><topic>Snow</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f1_001_028</identifier>
+
+<titleInfo supplied="yes"><title>John L. Wallace Korean War training photo album, back cover</title></titleInfo> 
+
+
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1959</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1959</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026695">photograph albums</form>
+
+<extent>1 page</extent>
+</physicalDescription>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_001</identifier>
+
+<titleInfo supplied="yes"><title>Black male boxer</title></titleInfo> 
+
+
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001276"><topic>Boxers (Sports)</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85009140"><topic>Athletes, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_002</identifier>
+
+<titleInfo supplied="yes"><title>Ten armed Black soldiers</title></titleInfo> 
+
+
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85085309"><topic>Military training camps</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_003</identifier>
+
+<titleInfo supplied="yes"><title>Camp Kue in Okinawa</title></titleInfo> 
+
+<abstract>Depicted are barracks under construction and two men walking. Damage is likely due to Typhoon Libby. Incscription reads: "Camp Kue, Okinawa, 1948."</abstract>
+
+<originInfo>
+<dateCreated>1948</dateCreated><dateCreated encoding="edtf">1948</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2022007611"><topic>Typhoon damage</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011921"><topic>Barracks</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79050783"><name><namePart>Okinawa-shi (Japan)</namePart></name></subject>
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_004</identifier>
+
+<titleInfo supplied="yes"><title>New Rukom Theater following typhoon</title></titleInfo> 
+
+<abstract>Inscription reads: "New Rukom Theater, Okinawa, 1948, Typhoon Damage." Damage is likely due to Typhoon Libby.</abstract>
+
+<originInfo>
+<dateCreated>1948</dateCreated><dateCreated encoding="edtf">1948</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2022007611"><topic>Typhoon damage</topic></subject>
+
+
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79050783"><name><namePart>Okinawa-shi (Japan)</namePart></name></subject>
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_005</identifier>
+
+<titleInfo supplied="yes"><title>Black soldiers posing</title></titleInfo> 
+
+<abstract>Two soldiers playfully spar with each other while others pose with hands on their hips.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_006</identifier>
+
+<titleInfo supplied="yes"><title>Black man standing in front of a building facade</title></titleInfo> 
+
+<abstract>The subject has his hands in his pockets and is wearing a hat. The photograph is washed out and has decorative edges. </abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_007</identifier>
+
+<titleInfo supplied="yes"><title>Black soldier kneeling</title></titleInfo> 
+
+<abstract>One soldier kneels in a stand of trees. A jeep and buildings are visible in the background.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_008</identifier>
+
+<titleInfo supplied="yes"><title>Black man standing in front of a porch</title></titleInfo> 
+
+<abstract>The figure wears a hat and a sweater vest and is standing on a walkway under a palm tree.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_009</identifier>
+
+<titleInfo supplied="yes"><title>Black soldier answers the telelphone</title></titleInfo> 
+
+<abstract>Another black man with a paper in hand waits in the room.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_010</identifier>
+
+<titleInfo supplied="yes"><title>Black soldier holds a camera</title></titleInfo> 
+
+<abstract>Behind the man holding the camera are four men entering a building.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_011</identifier>
+
+<titleInfo supplied="yes"><title>Dog in motion</title></titleInfo> 
+
+
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003202"><topic>Dogs</topic></subject>
+
+
+
+
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_012</identifier>
+
+<titleInfo supplied="yes"><title>Portrait of a Black woman in a plaid shirt</title></titleInfo> 
+
+<abstract>The background includes flowers and a mirror that reflects a chair and window.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85105182"><topic>Portraits</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85147364"><topic>Women, Black</topic></subject>
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_013</identifier>
+
+<titleInfo supplied="yes"><title>Black soldier with a wide stance</title></titleInfo> 
+
+<abstract>The soldier stands in front of a truck covered by a tarpaulin. The photograph is out of focus and the top left corner is torn.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85142533"><topic>Vehicles, Military</topic></subject>
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_014</identifier>
+
+<titleInfo supplied="yes"><title>Black soldier with a wide stance</title></titleInfo> 
+
+<abstract>The soldier stands in front of a truck covered by a tarpaulin. The bottom left corner of the photograph is torn and the shot is taken diagonally.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85142533"><topic>Vehicles, Military</topic></subject>
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f2_015</identifier>
+
+<titleInfo supplied="yes"><title>Black soldier with tree</title></titleInfo> 
+
+<abstract>Soldier grasps one of two recently planted conifers.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+
+<extent>1 photograph</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85001932"><topic>African Americans</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+<subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011054"><topic>Trees</topic></subject>
+
+
+
+
+
+<note>This is a loose photograph associated with the John L. Wallace photograph album.</note>
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_001</identifier>
+
+<titleInfo supplied="yes"><title>Valentine of a heart-shaped box and flowers</title></titleInfo> 
+
+<abstract>Valentine created by Gibson Greeting Gards and signed "As ever, 'Dinky.'" Message on the front of the card reads: "A valentine message for the one I love." Interior message reads: "For you alone. There's the sweetest love in our hearts / That only the two of us share . . . / And, darling, wherever you go / My love will always be there ~ / For each little thought I have / Seems only to be of you, / Because I'm so much in love, dear . . . / and hope you love ME / that much too!"</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+<publisher>Gibson Greeting Cards, Inc.</publisher>
+<place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79053745">Cincinnati (Ohio)</placeTerm></place>
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 valentine</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85141832"><topic>Valentines</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85057280"><topic>Greeting cards</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_001_001</identifier>
+
+<titleInfo supplied="yes"><title>Valentine of a heart-shaped box and flowers, front</title></titleInfo> 
+
+<abstract>Message reads: "A valentine message for the one I love."</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+<publisher>Gibson Greeting Cards, Inc.</publisher>
+<place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79053745">Cincinnati (Ohio)</placeTerm></place>
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 valentine</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85141832"><topic>Valentines</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85057280"><topic>Greeting cards</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_001_002</identifier>
+
+<titleInfo supplied="yes"><title>Valentine of a heart-shaped box and flowers, interior</title></titleInfo> 
+
+<abstract>Printed text reads: "For you alone. There's the sweetest love in our hearts / That only the two of us share . . . / And, darling, wherever you go / My love will always be there ~ / For each little thought I have / Seems only to be of you, / Because I'm so much in love, dear . . . / and hope you love ME / that much too!" Signed "As ever, 'Dinky.'"</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+<publisher>Gibson Greeting Cards, Inc.</publisher>
+<place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79053745">Cincinnati (Ohio)</placeTerm></place>
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 valentine</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85141832"><topic>Valentines</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85057280"><topic>Greeting cards</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_001_003</identifier>
+
+<titleInfo supplied="yes"><title>Valentine of a heart-shaped box and flowers, back</title></titleInfo> 
+
+<abstract>Text reads: "A Gibson Card / Gibson, Cinti, U.S.A. / 35V86272"</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+<publisher>Gibson Greeting Cards, Inc.</publisher>
+<place><placeTerm valueURI="http://id.loc.gov/authorities/names/n79053745">Cincinnati (Ohio)</placeTerm></place>
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 valentine</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85141832"><topic>Valentines</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85057280"><topic>Greeting cards</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_002</identifier>
+
+<titleInfo supplied="yes"><title>Howard University library circulation card</title></titleInfo> 
+
+<abstract>Blank circulation card with fields for entering the title, call number, due date, etc. of a book.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 card</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85076502"><topic>Libraries</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n79064543"><topic>Howard University</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2022006092"><topic>Historically Black colleges and universities</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_003</identifier>
+
+<titleInfo supplied="yes"><title>Milbank Agricultural building postcard</title></titleInfo> 
+
+<abstract>Postcard depicts the Milbank Agricultural building at the Tuskegee Institute in Alabama. The building is made of red brick and includes a porte cochere. The card is sent from Tommy in Alabama to Sgt. John L. Wallace in Michigan. It shares that the sender is fine and that Sgt. Wallace should get in touch with family.</abstract>
+
+<originInfo>
+<dateCreated>August 16, 1951</dateCreated><dateCreated encoding="edtf">1951-08-16</dateCreated>
+
+<publisher>Curt Teich &amp; Co.</publisher>
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<extent>1 postcard</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80036583"><topic>Tuskegee Institute</topic></subject>
+
+
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2022006092"><topic>Historically Black colleges and universities</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_003_001</identifier>
+
+<titleInfo supplied="yes"><title>Milbank Agricultural building postcard, recto</title></titleInfo> 
+
+<abstract>Postcard depicts the Milbank Agricultural building at the Tuskegee Institute in Alabama. The building is made of red brick and includes a porte cochere.</abstract>
+
+<originInfo>
+<dateCreated>August 16, 1951</dateCreated><dateCreated encoding="edtf">1951-08-16</dateCreated>
+
+<publisher>Curt Teich &amp; Co.</publisher>
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<extent>1 postcard</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80036583"><topic>Tuskegee Institute</topic></subject>
+
+
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2022006092"><topic>Historically Black colleges and universities</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_003_002</identifier>
+
+<titleInfo supplied="yes"><title>Milbank Agricultural building postcard, verso</title></titleInfo> 
+
+<abstract>Message reads: "Dr. Jr., I am having a fine time. Love Tommy. Write Uncle Elmo and Essie. 310 Washington Ave. Tuskegee Ist., Ala. Recepient address: Sgt. John L. Wallace Jr., Co "C" 171st M.P. BN, Fort Custer, Michigan."</abstract>
+
+<originInfo>
+<dateCreated>August 16, 1951</dateCreated><dateCreated encoding="edtf">1951-08-16</dateCreated>
+
+<publisher>Curt Teich &amp; Co.</publisher>
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+<extent>1 postcard</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80036583"><topic>Tuskegee Institute</topic></subject>
+
+
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh2022006092"><topic>Historically Black colleges and universities</topic></subject>
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_004</identifier>
+
+<titleInfo supplied="yes"><title>Junior Olympic Games contestant patch, 1948</title></titleInfo> 
+
+<abstract>Patch features the acronym "WJW" and a figure with upraised hands holding a laurel wreath.</abstract>
+
+<originInfo>
+<dateCreated>1948</dateCreated><dateCreated encoding="edtf">1948</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300028884">memorabilia</form>
+
+<extent>1 patch</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887"><topic>Sports</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85010909"><topic>Badges</topic></subject>
+
+
+
+
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_005</identifier>
+
+<titleInfo supplied="yes"><title>Kansas City Missouri rodeo patch</title></titleInfo> 
+
+<abstract>Circular green and white patch featuring an image of bronc riding, Some additional coloring is present.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300028884">memorabilia</form>
+
+<extent>1 patch</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85114811"><topic>Rodeos</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh00002089"><topic>Bronc riding</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79045171"><name><namePart>Kansas City (Mo.)</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_006</identifier>
+
+<titleInfo supplied="yes"><title>Invitation to Mecca Temple No. 10 Patrol's spring ball</title></titleInfo> 
+
+<abstract>A pamphlet invitation to Mecca Temple No. 10 Patrol's spring ball taking place on April 17, 1959 in the National Guard Armory in Washington D.C.</abstract>
+
+<originInfo>
+<dateCreated>April 1959</dateCreated><dateCreated encoding="edtf">1959-04</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
+<extent>1 invitation</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051718"><topic>Freemasonry</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh86006388"><topic>Invitation cards</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011340"><topic>Balls (Parties)</topic></subject>
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79018774"><name><namePart>Washington (D.C.)</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_006_001</identifier>
+
+<titleInfo supplied="yes"><title>Invitation to Mecca Temple No. 10 Patrol's spring ball, cover</title></titleInfo> 
+
+<abstract>Cover of a pamphlet invitation to Mecca Temple No. 10 Patrol's spring ball taking place on April 17, 1959 in the National Guard Armory in Washington D.C. A shriner crescent and scimitar are depicted in red.</abstract>
+
+<originInfo>
+<dateCreated>April 1959</dateCreated><dateCreated encoding="edtf">1959-04</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
+<extent>1 invitation</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051718"><topic>Freemasonry</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh86006388"><topic>Invitation cards</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011340"><topic>Balls (Parties)</topic></subject>
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79018774"><name><namePart>Washington (D.C.)</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_006_002</identifier>
+
+<titleInfo supplied="yes"><title>Invitation to Mecca Temple No. 10 Patrol's spring ball, interior</title></titleInfo> 
+
+<abstract>The inner pages of a pamphlet invitation to Mecca Temple No. 10 Patrol's spring ball taking place on April 17, 1959 in the National Guard Armory in Washington D.C. The names of committee members and the invitation text are present</abstract>
+
+<originInfo>
+<dateCreated>April 1959</dateCreated><dateCreated encoding="edtf">1959-04</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
+<extent>1 invitation</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051718"><topic>Freemasonry</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh86006388"><topic>Invitation cards</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011340"><topic>Balls (Parties)</topic></subject>
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79018774"><name><namePart>Washington (D.C.)</namePart></name></subject>
+
+
+
+<typeOfResource></typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_006_003</identifier>
+
+<titleInfo supplied="yes"><title>Invitation to Mecca Temple No. 10 Patrol's spring ball, insert</title></titleInfo> 
+
+<abstract>Insert for a pamphlet invitation to Mecca Temple No. 10 Patrol's spring ball taking place on April 17, 1959 in the National Guard Armory in Washington D.C. The insert has contact information for tickets and table reservations.</abstract>
+
+<originInfo>
+<dateCreated>April 1959</dateCreated><dateCreated encoding="edtf">1959-04</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
+<extent>1 invitation</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051718"><topic>Freemasonry</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh86006388"><topic>Invitation cards</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011340"><topic>Balls (Parties)</topic></subject>
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79018774"><name><namePart>Washington (D.C.)</namePart></name></subject>
+
+
+
+<typeOfResource></typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_006_004</identifier>
+
+<titleInfo supplied="yes"><title>Invitation to Mecca Temple No. 10 Patrol's spring ball, back cover</title></titleInfo> 
+
+<abstract>Back cover of a pamphlet invitation to Mecca Temple No. 10 Patrol's spring ball taking place on April 17, 1959 in the National Guard Armory in Washington D.C. Listed are the officers of the Mecca Temple No. 10 Patrol.</abstract>
+
+<originInfo>
+<dateCreated>April 1959</dateCreated><dateCreated encoding="edtf">1959-04</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
+<extent>1 invitation</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85051718"><topic>Freemasonry</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh86006388"><topic>Invitation cards</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85011340"><topic>Balls (Parties)</topic></subject>
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79018774"><name><namePart>Washington (D.C.)</namePart></name></subject>
+
+
+
+<typeOfResource>still image</typeOfResource>
+<typeOfResource>text</typeOfResource>
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_007</identifier>
+
+<titleInfo supplied="yes"><title>Guest ticket to the Fifth Army Basketball Tournament</title></titleInfo> 
+
+<abstract>Captain John L. Wallace of the "171st M.P.  Bn. Co. C" is listed as the guest. The tournament took place in Fort Riley, Kansas.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300027381">tickets</form>
+<extent>1 ticket</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887"><topic>Sports</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85012111"><topic>Basketball</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n84122908"><name><namePart>Fort Riley (Kan.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_008</identifier>
+
+<titleInfo supplied="yes"><title>District of Columbia National Guard card for John L. Wallace</title></titleInfo> 
+
+<abstract>The card includes Wallace's name, signature, serial number, company, and unit commander (Robert S. Williams). Wallace's full name is given as John Lamond Wallace and his company is listed as "Co C 171st M.P. Bn DCNG." The card was issued on July 19, 1948. It notes that the holder is charged "with uniform and courteous military bearing and action."</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300255378">membership cards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 card</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85085263"><topic>Military police</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85140385"><topic>United States--National Guard</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n78083403"><name><namePart>District of Columbia</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_009</identifier>
+
+<titleInfo supplied="yes"><title>Camp McCoy NCO Mess membership card</title></titleInfo> 
+
+<abstract>A membership card for non-commissioned officers training at Camp McCoy. The card entitles its holder to all membership privileges of the Camp McCoy NCO Mess.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300255378">membership cards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 card</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh99005230"><topic>Non-commissioned officers</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_009_001</identifier>
+
+<titleInfo supplied="yes"><title>Camp McCoy NCO Mess membership card, front</title></titleInfo> 
+
+<abstract>The front of the membership card includes Wallace's signature and states that he is entitled to all membership privileges. Also present is the signature of the President (Msgt. Leslie E.).</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300255378">membership cards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 card</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh99005230"><topic>Non-commissioned officers</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_009_002</identifier>
+
+<titleInfo supplied="yes"><title>Camp McCoy NCO Mess membership card, back</title></titleInfo> 
+
+<abstract>The back of the membership card includes blank lines for September through August.</abstract>
+
+<originInfo>
+
+<dateCreated qualifier="approximate">1948-1952</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated><dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300255378">membership cards</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 card</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh99005230"><topic>Non-commissioned officers</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_010</identifier>
+
+<titleInfo supplied="yes"><title>Soldier's permanent pass</title></titleInfo> 
+
+<abstract>A class "A" pass allowing unrestricted travel for the holder, John L. Wallace.</abstract>
+
+<originInfo>
+<dateCreated>January 1, 1951</dateCreated><dateCreated encoding="edtf">1951-01-01</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300027826">military passes</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 pass</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85085259"><topic>Military passes</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_010_001</identifier>
+
+<titleInfo supplied="yes"><title>Soldier's permanent pass, front</title></titleInfo> 
+
+<abstract>A class "A" pass allowing unrestricted travel for the holder, John L. Wallace.</abstract>
+
+<originInfo>
+<dateCreated>January 1, 1951</dateCreated><dateCreated encoding="edtf">1951-01-01</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300027826">military passes</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 pass</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85085259"><topic>Military passes</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
+<mods>
+<identifier type="local">MS3989_b1_f3_010_002</identifier>
+
+<titleInfo supplied="yes"><title>Soldier's permanent pass, back</title></titleInfo> 
+
+<abstract>A class "A" pass allowing unrestricted travel for the holder, John L. Wallace. The back includes instructions to follow for the pass to be valid.</abstract>
+
+<originInfo>
+<dateCreated>January 1, 1951</dateCreated><dateCreated encoding="edtf">1951-01-01</dateCreated>
+
+
+
+</originInfo>
+
+
+
+<physicalDescription>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300027826">military passes</form>
+<form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+<extent>1 pass</extent>
+</physicalDescription>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85085259"><topic>Military passes</topic></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/subjects/sh85124580"><topic>Soldiers, Black</topic></subject>
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79126001"><name><namePart>Camp McCoy (Wis.)</namePart></name></subject>
+
+
+
+<typeOfResource>text</typeOfResource>
+
+
+<language><languageTerm type="text" authority="iso639-2b">English</languageTerm></language>
+
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>John L. Wallace Korean War Training Photo Album</title></titleInfo></relatedItem>
+
+<relatedItem displayLabel="Collection" type="host">
+<titleInfo>
+<title>John L. Wallace Korean Conflict Photo Album</title>
+</titleInfo>
+<identifier>MS-3989</identifier>
+</relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods></modsCollection>
