@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">MS3989_b1_f1_001_002</identifier>
+   <titleInfo supplied="yes">
+      <title>John L. Wallace Korean War training photo album, page 1</title>
+   </titleInfo>
+   <abstract>This page features "Autographs of my friends."  A date, signature, address, and message is included for each contributor. The messages date from 1950-1951 and include well wishes like "Be cool, my man."</abstract>
+   <originInfo>
+      <dateCreated qualifier="approximate">1950-1951</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="start">1950</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="end">1951</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028705">signatures (names)</form>
+      <extent>1 page</extent>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85122409">
+      <topic>Signatures (Writing)</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85051992">
+      <topic>Friendship</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85073117">
+      <topic>Korean War, 1950-1953</topic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean War Training Photo Album</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean Conflict Photo Album</title>
+      </titleInfo>
+      <identifier>MS-3989</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

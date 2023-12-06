@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">MS3989_b1_f3_001</identifier>
+   <titleInfo supplied="yes">
+      <title>Valentine of a heart-shaped box and flowers</title>
+   </titleInfo>
+   <abstract>Valentine created by Gibson Greeting Gards and signed "As ever, 'Dinky.'" Message on the front of the card reads: "A valentine message for the one I love." Interior message reads: "For you alone. There's the sweetest love in our hearts / That only the two of us share . . . / And, darling, wherever you go / My love will always be there ~ / For each little thought I have / Seems only to be of you, / Because I'm so much in love, dear . . . / and hope you love ME / that much too!"</abstract>
+   <originInfo>
+      <dateCreated qualifier="approximate">1948-1952</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+      <publisher>Gibson Greeting Cards, Inc.</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79053745">Cincinnati (Ohio)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+      <extent>1 valentine</extent>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85141832">
+      <topic>Valentines</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85057280">
+      <topic>Greeting cards</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean War Training Photo Album</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean Conflict Photo Album</title>
+      </titleInfo>
+      <identifier>MS-3989</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

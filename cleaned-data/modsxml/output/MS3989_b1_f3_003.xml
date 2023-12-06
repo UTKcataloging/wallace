@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">MS3989_b1_f3_003</identifier>
+   <titleInfo supplied="yes">
+      <title>Milbank Agricultural building postcard</title>
+   </titleInfo>
+   <abstract>Postcard depicts the Milbank Agricultural building at the Tuskegee Institute in Alabama. The building is made of red brick and includes a porte cochere. The card is sent from Tommy in Alabama to Sgt. John L. Wallace in Michigan. It shares that the sender is fine and that Sgt. Wallace should get in touch with family.</abstract>
+   <originInfo>
+      <dateCreated>August 16, 1951</dateCreated>
+      <dateCreated encoding="edtf">1951-08-16</dateCreated>
+      <publisher>Curt Teich &amp; Co.</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+      <extent>1 postcard</extent>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/names/n80036583">
+      <topic>Tuskegee Institute</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh2022006092">
+      <topic>Historically Black colleges and universities</topic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean War Training Photo Album</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean Conflict Photo Album</title>
+      </titleInfo>
+      <identifier>MS-3989</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">MS3989_b1_f3_007</identifier>
+   <titleInfo supplied="yes">
+      <title>Guest ticket to the Fifth Army Basketball Tournament</title>
+   </titleInfo>
+   <abstract>Captain John L. Wallace of the "171st M.P.  Bn. Co. C" is listed as the guest. The tournament took place in Fort Riley, Kansas.</abstract>
+   <originInfo>
+      <dateCreated qualifier="approximate">1948-1952</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="start">1948</dateCreated>
+      <dateCreated encoding="edtf" qualifier="approximate" point="end">1952</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300027381">tickets</form>
+      <extent>1 ticket</extent>
+   </physicalDescription>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85126887">
+      <topic>Sports</topic>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85012111">
+      <topic>Basketball</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n84122908">
+      <name>
+         <namePart>Fort Riley (Kan.)</namePart>
+      </name>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean War Training Photo Album</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>John L. Wallace Korean Conflict Photo Album</title>
+      </titleInfo>
+      <identifier>MS-3989</identifier>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NKC/1.0/">No Known Copyright</accessCondition>
+</mods>
