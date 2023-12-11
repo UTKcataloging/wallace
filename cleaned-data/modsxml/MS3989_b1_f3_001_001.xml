@@ -19,7 +19,7 @@
       </place>
    </originInfo>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028884">memorabilia</form>
       <extent>1 valentine</extent>
    </physicalDescription>
